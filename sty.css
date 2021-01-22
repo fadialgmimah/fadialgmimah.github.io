@@ -1,0 +1,10 @@
+body
+{text-align: center;
+ font-family: arial,helvetica,sans-serif;
+ background-color: yellow;
+}
+
+table,th, td{text-align: center;
+border: 1px solid black;
+}
+b {text-decoration: underline;}
